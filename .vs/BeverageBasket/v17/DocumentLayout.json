@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\frzara\\source\\repos\\BeverageBasket\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A4485EF-C8FF-4DC4-B009-057AF38C2AA0}|BeverageBasket.API.Tests\\BeverageBasket.API.Tests.csproj|c:\\users\\frzara\\source\\repos\\beveragebasket\\beveragebasket.api.tests\\services\\basketservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A4485EF-C8FF-4DC4-B009-057AF38C2AA0}|BeverageBasket.API.Tests\\BeverageBasket.API.Tests.csproj|solutionrelative:beveragebasket.api.tests\\services\\basketservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A4485EF-C8FF-4DC4-B009-057AF38C2AA0}|BeverageBasket.API.Tests\\BeverageBasket.API.Tests.csproj|c:\\users\\frzara\\source\\repos\\beveragebasket\\beveragebasket.api.tests\\services\\paymentservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A4485EF-C8FF-4DC4-B009-057AF38C2AA0}|BeverageBasket.API.Tests\\BeverageBasket.API.Tests.csproj|solutionrelative:beveragebasket.api.tests\\services\\paymentservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PaymentServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\frzara\\source\\repos\\BeverageBasket\\BeverageBasket.API.Tests\\Services\\PaymentServiceTest.cs",
+              "RelativeDocumentMoniker": "BeverageBasket.API.Tests\\Services\\PaymentServiceTest.cs",
+              "ToolTip": "C:\\Users\\frzara\\source\\repos\\BeverageBasket\\BeverageBasket.API.Tests\\Services\\PaymentServiceTest.cs",
+              "RelativeToolTip": "BeverageBasket.API.Tests\\Services\\PaymentServiceTest.cs",
+              "ViewState": "AQIAAP0BAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T01:20:47.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BasketServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\frzara\\source\\repos\\BeverageBasket\\BeverageBasket.API.Tests\\Services\\BasketServiceTest.cs",
+              "RelativeDocumentMoniker": "BeverageBasket.API.Tests\\Services\\BasketServiceTest.cs",
+              "ToolTip": "C:\\Users\\frzara\\source\\repos\\BeverageBasket\\BeverageBasket.API.Tests\\Services\\BasketServiceTest.cs",
+              "RelativeToolTip": "BeverageBasket.API.Tests\\Services\\BasketServiceTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T01:20:46.974Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
